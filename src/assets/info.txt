@@ -1,0 +1,44 @@
+Color:
+sky blue
+#1AD1A5
+
+dark black
+#1E1E1E
+#0C0C0C
+
+Text color: #403F3F
+Text grey: #5B5858
+
+Footer bg: #CAF3EA
+Footer text: #333333
+
+
+
+Assignment-8:
+
+https://magenta-crepe-0261b6.netlify.app/
+https://6605135baa952f4b1f62783d--magenta-crepe-0261b6.netlify.app/
+
+fonst: Work Sans, Playfair Display
+700, 
+
+#23be0a
+#131313
+#59c6d2
+
+
+
+	  "bookId": 4,
+      "bookName": "Introduction to Programming",
+      "author": "Marijn Haverbeke",
+      "image": "https://iili.io/JjqdP8F.jpg",
+      "review": "Eloquent JavaScript by Marijn Haverbeke is a comprehensive introduction to the JavaScript language. With its clear explanations and hands-on exercises, this book is perfect for beginners and experienced programmers alike. Dive into the world of JavaScript programming with this essential guide.",
+      "totalPages": 472,
+      "rating": 4.4,
+      "category":  "Programming",
+      "tags": ["programming", "web-development"],
+      "publisher": "No Starch Press",
+      "yearOfPublishing": 2018
+	  
+	  
+	 

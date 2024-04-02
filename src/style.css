@@ -1,0 +1,32 @@
+*{
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.L-border{
+    border: 1px solid red;
+}
+
+
+.poppins {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .rajdhani {
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+
+
+@media only screen and (min-width: 768px) {
+    .active{
+        color: #1AD1A5;
+        border-bottom: 2px solid #1AD1A5;
+    }
+  }
