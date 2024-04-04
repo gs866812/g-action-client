@@ -1,9 +1,9 @@
 import React from "react";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
-import SliderOne from "./Slider/SliderOne";
-import SliderTwo from "./Slider/SliderTwo";
-import SliderThree from "./Slider/SliderThree";
+import SliderOne from "./Home/Slider/SliderOne";
+import SliderTwo from "./Home/Slider/SliderTwo";
+import SliderThree from "./Home/Slider/SliderThree";
 
 const Slider = () => {
   return (
