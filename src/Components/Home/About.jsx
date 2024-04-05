@@ -16,7 +16,7 @@ const About = () => {
 
                 <div className='flex gap-3'>
                     <hr className='border-[3px] border-[#1AD1A5] w-[60px] rounded-xl' /> 
-                    <hr className='border-[3px] border-[#1AD1A5] w-[10px] rounded-xl' />
+                    <hr className='border-[3px] border-[#1AD1A5] w-[5px] rounded-xl' />
                 </div>
 
                 <p className='font-sans font-normal text-[#4E4E4E] leading-[30px]'>

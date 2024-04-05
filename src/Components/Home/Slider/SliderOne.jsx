@@ -14,7 +14,7 @@ const SliderOne = () => {
             It Consulting Services For Your Business. Our experts provide strategic guidance and technical support to align your business goals with cutting-edge IT solutions.
             </p>
 
-            <button className="text-xl font-semibold bg-[#1AD1A5] py-3 px-7 rounded-lg hover:bg-white hover:text-[#0C0C0C]  hover:bg-to-b from-[#1AD1A5] to-white hover:duration-1000 hover:translate-y-1 lg:mt-5 flex items-center gap-3">
+            <button className=" text-xl font-semibold bg-[#1AD1A5] py-3 px-7 rounded-lg hover:bg-white hover:text-[#0C0C0C]  hover:bg-to-b from-[#1AD1A5] to-white hover:duration-1000 hover:translate-y-1 lg:mt-5 flex items-center gap-3">
                 Explore More <FontAwesomeIcon icon={faCircleRight} />
             </button>
         </div>
