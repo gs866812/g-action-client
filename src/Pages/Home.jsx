@@ -1,5 +1,6 @@
 import About from "../Components/Home/About";
 import Company from "../Components/Home/Company";
+import Services from "../Components/Home/Services";
 import Layout from "../Components/Layout";
 import Slider from "../Components/Slider";
 
@@ -16,6 +17,9 @@ const Home = () => {
             </section>
             <section>
                 <Company/>
+            </section>
+            <section>
+                <Services/>
             </section>
         </Layout>
     );
